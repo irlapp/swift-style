@@ -19,7 +19,7 @@
 --wrapternary before-operators # wrap
 --extensionacl on-declarations # extensionAccessControl
 --patternlet inline # hoistPatternLet
---redundanttype inferred # redundantType
+--redundanttype infer-locals-only # redundantType
 --typeblanklines preserve # blankLinesAtStartOfScope, blankLinesAtEndOfScope
 --emptybraces spaced # emptyBraces
 
